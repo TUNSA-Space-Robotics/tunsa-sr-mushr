@@ -1,0 +1,9 @@
+cse478_dependencies/mushr_base/mushr_base
+/home/robotics/dependencies_ws/devel/.private/mushr_base/cmake.lock /home/robotics/dependencies_ws/devel/./cmake.lock
+/home/robotics/dependencies_ws/devel/.private/mushr_base/share/mushr_base/cmake/mushr_baseConfig-version.cmake /home/robotics/dependencies_ws/devel/share/mushr_base/cmake/mushr_baseConfig-version.cmake
+/home/robotics/dependencies_ws/devel/.private/mushr_base/share/mushr_base/cmake/mushr_baseConfig.cmake /home/robotics/dependencies_ws/devel/share/mushr_base/cmake/mushr_baseConfig.cmake
+/home/robotics/dependencies_ws/devel/.private/mushr_base/lib/pkgconfig/mushr_base.pc /home/robotics/dependencies_ws/devel/lib/pkgconfig/mushr_base.pc
+/home/robotics/dependencies_ws/devel/.private/mushr_base/lib/python3/dist-packages/mushr_base/__init__.py /home/robotics/dependencies_ws/devel/lib/python3/dist-packages/mushr_base/__init__.py
+/home/robotics/dependencies_ws/devel/.private/mushr_base/lib/mushr_base/racecar_state /home/robotics/dependencies_ws/devel/lib/mushr_base/racecar_state
+/home/robotics/dependencies_ws/devel/.private/mushr_base/lib/mushr_base/joy_teleop /home/robotics/dependencies_ws/devel/lib/mushr_base/joy_teleop
+/home/robotics/dependencies_ws/devel/.private/mushr_base/lib/mushr_base/cmake.lock /home/robotics/dependencies_ws/devel/lib/mushr_base/cmake.lock

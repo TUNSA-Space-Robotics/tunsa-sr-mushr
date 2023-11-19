@@ -1,0 +1,1 @@
+/home/robotics/mushr_ws/devel/.private/cse478/etc/catkin/profile.d/cse478.bash

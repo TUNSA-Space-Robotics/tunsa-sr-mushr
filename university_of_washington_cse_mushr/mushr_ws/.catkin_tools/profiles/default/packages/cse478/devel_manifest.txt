@@ -1,0 +1,8 @@
+mushr478/cse478
+/home/robotics/mushr_ws/devel/.private/cse478/cmake.lock /home/robotics/mushr_ws/devel/./cmake.lock
+/home/robotics/mushr_ws/devel/.private/cse478/share/cse478/cmake/cse478Config-version.cmake /home/robotics/mushr_ws/devel/share/cse478/cmake/cse478Config-version.cmake
+/home/robotics/mushr_ws/devel/.private/cse478/share/cse478/cmake/cse478Config.cmake /home/robotics/mushr_ws/devel/share/cse478/cmake/cse478Config.cmake
+/home/robotics/mushr_ws/devel/.private/cse478/lib/pkgconfig/cse478.pc /home/robotics/mushr_ws/devel/lib/pkgconfig/cse478.pc
+/home/robotics/mushr_ws/devel/.private/cse478/lib/python3/dist-packages/cse478/__init__.py /home/robotics/mushr_ws/devel/lib/python3/dist-packages/cse478/__init__.py
+/home/robotics/mushr_ws/devel/.private/cse478/etc/catkin/profile.d/cse478.bash /home/robotics/mushr_ws/devel/etc/catkin/profile.d/cse478.bash
+/home/robotics/mushr_ws/devel/.private/cse478/etc/catkin/profile.d/cse478.zsh /home/robotics/mushr_ws/devel/etc/catkin/profile.d/cse478.zsh

@@ -1,0 +1,58 @@
+sudo apt install git-all
+sudo apt install python-tk
+
+sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+sudo apt install curl # if you haven't already installed curl
+curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
+sudo apt-get update
+sudo apt-get install python3-vcstool
+
+python -m ensurepip --upgrade
+
+sudo apt install -y ros-noetic-ackermann-msgs ros-noetic-map-server ros-noetic-serial ros-noetic-urg-node ros-noetic-robot-state-publisher ros-noetic-xacro
+
+cd ~/catkin_ws
+
+catkin clean
+
+rm -rf src
+
+cd ~/catkin_ws/src
+
+cp ~/repos.yaml ~/catkin_ws/src
+
+vcs import < repos.yaml
+
+mv ~/catkin_ws/src/mushr/mushr_hardware/realsense/realsense2_description ~/catkin_ws/src/mushr/mushr_hardware/realsense2_description
+rm -rf ~/catkin_ws/src/mushr/mushr_hardware/realsense
+
+sudo pip3 install Cython
+
+cd ~/catkin_ws/src/range_libc/pywrapper
+sudo python3 setup.py install
+cd ~/catkin_ws/src && sudo rm -rf range_libc
+
+
+sudo apt install python3-testresources
+sudo pip3 install --target=/opt/ros/noetic/lib/python3/dist-packages rospkg
+
+pip install pycryptodome
+
+from Crypto.Cipher import AES  #Works
+
+cd ~/catkin_ws
+
+catkin build -DPYTHON_EXECUTABLE=/usr/bin/python3 -DPYTHON_INCLUDE_DIR=/usr/include/python3
+
+echo 'source /opt/ros/noetic/setup.bash' >> ~/.bashrc
+echo 'source ~/catkin_ws/devel/setup.bash' >> ~/.bashrc
+. ~/.bashrc
+
+cp ~/catkin_ws/src/mushr/mushr_utils/rviz/default.rviz ~/.rviz/
+
+gedit /home/elyes/mushr_ws/src/mushr_sim/src/keyboard_teleop.py
+#change the Tkinter in line 10 to tkinter
+#save the file
+
+roslaunch mushr_sim teleop.launch
+

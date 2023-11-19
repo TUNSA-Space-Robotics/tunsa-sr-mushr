@@ -1,0 +1,2 @@
+cse478_dependencies/vesc/vesc
+/home/robotics/dependencies_ws/devel/.private/vesc/cmake.lock /home/robotics/dependencies_ws/devel/./cmake.lock

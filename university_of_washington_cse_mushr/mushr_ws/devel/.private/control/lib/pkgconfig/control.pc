@@ -1,0 +1,8 @@
+prefix=/home/robotics/mushr_ws/devel/.private/control
+
+Name: control
+Description: Description of control
+Version: 1.0.0
+Cflags: -I/home/robotics/mushr_ws/devel/.private/control/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime nav_msgs std_msgs

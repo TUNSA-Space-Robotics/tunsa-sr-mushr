@@ -1,0 +1,5 @@
+cse478_dependencies/vesc/vesc_main
+/home/robotics/dependencies_ws/devel/.private/vesc_main/cmake.lock /home/robotics/dependencies_ws/devel/./cmake.lock
+/home/robotics/dependencies_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig-version.cmake /home/robotics/dependencies_ws/devel/share/vesc_main/cmake/vesc_mainConfig-version.cmake
+/home/robotics/dependencies_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig.cmake /home/robotics/dependencies_ws/devel/share/vesc_main/cmake/vesc_mainConfig.cmake
+/home/robotics/dependencies_ws/devel/.private/vesc_main/lib/pkgconfig/vesc_main.pc /home/robotics/dependencies_ws/devel/lib/pkgconfig/vesc_main.pc

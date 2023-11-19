@@ -1,0 +1,11 @@
+<launch>
+    <arg name="control_topic" default="/mushr_mujoco_ros/buddy/control" />
+    <arg name="init_pose_topic" default="/mushr_mujoco_ros/buddy/initialpose" />
+    <arg name="plan_file" default="$(find mushr_mujoco_figure8)/plans/figure8.txt" />
+
+    <node pkg="mushr_mujoco_figure8" type="path_publisher.py" name="path_publisher" output="screen">
+        <param name="control_topic" value="$(arg control_topic)" />
+        <param name="init_pose_topic" value="$(arg init_pose_topic)" />
+        <param name="plan_file" value="$(arg plan_file)" />
+    </node>
+</launch>

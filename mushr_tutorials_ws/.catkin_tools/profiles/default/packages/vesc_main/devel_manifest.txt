@@ -1,0 +1,5 @@
+mushr/mushr_base/vesc/vesc_main
+/home/elyes/mushr_ws/devel/.private/vesc_main/cmake.lock /home/elyes/mushr_ws/devel/./cmake.lock
+/home/elyes/mushr_ws/devel/.private/vesc_main/lib/pkgconfig/vesc_main.pc /home/elyes/mushr_ws/devel/lib/pkgconfig/vesc_main.pc
+/home/elyes/mushr_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig.cmake /home/elyes/mushr_ws/devel/share/vesc_main/cmake/vesc_mainConfig.cmake
+/home/elyes/mushr_ws/devel/.private/vesc_main/share/vesc_main/cmake/vesc_mainConfig-version.cmake /home/elyes/mushr_ws/devel/share/vesc_main/cmake/vesc_mainConfig-version.cmake

@@ -1,0 +1,7 @@
+cse478_dependencies/serial
+/home/robotics/dependencies_ws/devel/.private/serial/cmake.lock /home/robotics/dependencies_ws/devel/./cmake.lock
+/home/robotics/dependencies_ws/devel/.private/serial/share/serial/cmake/serialConfig.cmake /home/robotics/dependencies_ws/devel/share/serial/cmake/serialConfig.cmake
+/home/robotics/dependencies_ws/devel/.private/serial/share/serial/cmake/serialConfig-version.cmake /home/robotics/dependencies_ws/devel/share/serial/cmake/serialConfig-version.cmake
+/home/robotics/dependencies_ws/devel/.private/serial/lib/libserial.so /home/robotics/dependencies_ws/devel/lib/libserial.so
+/home/robotics/dependencies_ws/devel/.private/serial/lib/pkgconfig/serial.pc /home/robotics/dependencies_ws/devel/lib/pkgconfig/serial.pc
+/home/robotics/dependencies_ws/devel/.private/serial/lib/serial/serial_example /home/robotics/dependencies_ws/devel/lib/serial/serial_example
