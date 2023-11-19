@@ -5,7 +5,7 @@ These projects provided us with hands-on experience implementing the sense-plan-
 
 This repository contains 2 main ROS workspaces:
 
-# university_of_washington_cse_mushr :
+# university_of_washington_cse_mushr
 
 This ROS workspace was forked from [University of Washington's MuSHR project on GitLab](https://gitlab.cs.washington.edu/cse478/21sp/mushr478) and worked upon by a team from TUNSA Space Robotics. It includes all dependency packages.
 
