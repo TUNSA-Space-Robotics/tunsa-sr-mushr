@@ -23,6 +23,14 @@ The project was conducted between August 28, 2022, and December 9, 2022, with a 
 - **Enhanced Particle Filter**: Implementation of a low-variance resampler using interval-based sampling to systematically explore high-probability particles, ensuring comprehensive exploration and avoidance of particle loss.
 - **LIDAR Sensor Modeling**: Development of a LIDAR sensor model with optimized runtime efficiency and accurate likelihood plots in simulations.
 
+## Project Presentation
+
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
+
+## Project Report
+
+Access the comprehensive project report via this [Project Report Link](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
+
 ## Getting Started
 
 ### Installation
@@ -37,15 +45,7 @@ The project was conducted between August 28, 2022, and December 9, 2022, with a 
 2. Monitor real-time feedback from LiDAR and other sensors using visualization tools like Foxglove Studio.
 3. Execute navigation tasks and observe the system's performance in various scenarios.
 
-## Project Presentation
-
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
-
-## Project Report
-
-Access the comprehensive project report via this [Project Report Link](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
-
-# ROS Workspaces
+# MuSHR ROS Workspaces
 
 The MuSHR programming projects we have done were provided by the [University of Washington's CSE478 course (Winter 2022)](https://courses.cs.washington.edu/courses/cse478/22wi/projects/)
 These projects provided us with hands-on experience implementing the sense-plan-act paradigm of robotics. We used Python to interface with ROS, a popular robot programming framework that helps organize and integrate the components developed within each project.
