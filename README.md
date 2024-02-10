@@ -12,7 +12,7 @@ The Multi-agent System for non-Holonomic Racing (MuSHR) project, developed by TU
 
 The project was conducted between August 28, 2022, and December 9, 2022, with a focus on enhancing MuSHR's autonomous navigation stack and optimizing multi-agent coordination. Led by Elyes Khechine, the project involved a dedicated team collaborating on various aspects of algorithm development, simulation refinement, and system integration.
 
-## Key Features
+## Technical Details
 
 - **Optimized Autonomous Navigation Stack**: Integration of a Model Predictive Controller (MPC), particle filtering for localization, and A* search algorithm for planning, resulting in enhanced navigation performance.
 - **Multi-Agent Navigation Stack Fine-Tuning**: Fine-tuning of NH-TTC controller parameters to optimize lookahead distance, collision prediction time, and solution calculation time, leading to a 21% reduction in path deviation.
