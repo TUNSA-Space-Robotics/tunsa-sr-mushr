@@ -6,11 +6,11 @@
 
 ## Introduction
 
-The Multi-agent System for non-Holonomic Racing (MuSHR) project, developed by TUNSA Space Robotics, represents a significant endeavor in advancing autonomous navigation systems. Leveraging state-of-the-art technologies and methodologies, this project aims to optimize the performance and coordination of multiple MuSHR cars in non-holonomic racing scenarios.
+This project represents a significant endeavor in advancing autonomous navigation systems. Leveraging state-of-the-art technologies and methodologies, this project aims to optimize the performance and coordination of multiple MuSHR cars in non-holonomic racing scenarios.
 
 ## Project Scope
 
-The project was conducted between August 28, 2022, and December 9, 2022, with a focus on enhancing MuSHR's autonomous navigation stack and optimizing multi-agent coordination. Led by Elyes Khechine, the project involved a dedicated team collaborating on various aspects of algorithm development, simulation refinement, and system integration.
+The project was developed by TUNSA Space Robotics between August 28, 2022, and December 9, 2022, with a focus on enhancing MuSHR's autonomous navigation stack and optimizing multi-agent coordination. It involved a dedicated team led by Elyes Khechine collaborating on various aspects of algorithm development, simulation refinement, and system integration.
 
 ## Technical Details
 
@@ -25,11 +25,11 @@ The project was conducted between August 28, 2022, and December 9, 2022, with a 
 
 ## Project Presentation
 
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [Project Presentation](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
+For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [project presentation](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
 
 ## Project Report
 
-Access the comprehensive project report via this [Project Report Link](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
+The [project's report document](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing) provides an overview of the hardware and software components required for building and operating a Multi-agent System for non-Holonomic Racing (MuSHR). It uses the MuSHR developed by the University of Washington as an example vehicle, but the concepts and methods are general and applicable to other platforms. The document covers the topics of perception, motion planning, and motion control, and discusses the various options and trade-offs for each module. It also provides some general resources for further learning and development.
 
 ## Getting Started
 
@@ -57,6 +57,7 @@ This repository contains 2 main ROS workspaces:
 This ROS workspace was forked from [University of Washington's MuSHR project on GitLab](https://gitlab.cs.washington.edu/cse478/21sp/mushr478) and worked upon by a team from TUNSA Space Robotics. It includes all dependency packages.
 
 # mushr_tutorials_ws
+
 This is the ROS workspace where we applied all tutorials provided by the MuSHR platform to set up a working MuSHR vehicle. The tutorials can be found [here](https://mushr.io/tutorials/).
 
 ## Contributing
@@ -74,3 +75,5 @@ For inquiries or collaboration opportunities, please contact:
 - Elyes Khechine: elyeskhechine@gmail.com
 - Nesrine Abidi: nesrinabidi766@gmail.com
 - Afef Salhi: salhiafefge@gmail.com
+- Malek Sghaier: malekshir00@gmail.com
+- Sarra Mannai: sarra5mannai@gmail.com
