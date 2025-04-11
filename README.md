@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project represents a significant endeavor in advancing autonomous navigation systems. Leveraging state-of-the-art technologies and methodologies, this project aims to optimize the performance and coordination of multiple MuSHR cars in non-holonomic racing scenarios.
+Leveraging state-of-the-art technologies and methodologies, this project aims to optimize the performance and coordination of multiple MuSHR cars in non-holonomic racing scenarios.
 
 ## Project Scope
 
