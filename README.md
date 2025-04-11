@@ -23,10 +23,6 @@ The project was developed by TUNSA Space Robotics between August 28, 2022, and D
 - **Enhanced Particle Filter**: Implementation of a low-variance resampler using interval-based sampling to systematically explore high-probability particles, ensuring comprehensive exploration and avoidance of particle loss.
 - **LIDAR Sensor Modeling**: Development of a LIDAR sensor model with optimized runtime efficiency and accurate likelihood plots in simulations.
 
-## Project Presentation
-
-For a detailed overview of the project, including methodologies, findings, and outcomes, please refer to the [project presentation](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing).
-
 ## Project Report
 
 The [project's report document](https://drive.google.com/file/d/1zNSA5tu2qhhZTiPgyoUtxdtTc3heoCTL/view?usp=sharing) provides an overview of the hardware and software components required for building and operating a Multi-agent System for non-Holonomic Racing (MuSHR). It uses the MuSHR developed by the University of Washington as an example vehicle, but the concepts and methods are general and applicable to other platforms. The document covers the topics of perception, motion planning, and motion control, and discusses the various options and trade-offs for each module. It also provides some general resources for further learning and development.
